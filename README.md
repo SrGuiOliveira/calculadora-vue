@@ -1,29 +1,42 @@
-# calculadora-vue
+# **Calculadora Aritmética em Vue.js**
 
-This template should help get you started developing with Vue 3 in Vite.
+![Versão do projeto](https://img.shields.io/badge/version-0.0.0-blue)
 
-## Recommended IDE Setup
+## **Descrição**
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Esta aplicação simples e eficiente foi desenvolvida com **Vue.js 3** e **Vite** para realizar operações matemáticas básicas. A calculadora permite que os usuários executem **soma**, **subtração**, **multiplicação** e **divisão**, oferecendo uma interface intuitiva e responsiva.
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## **Funcionalidades**
 
-## Project Setup
+- **Entrada de Números**: Permite que o usuário insira dois números para realizar os cálculos.
+- **Operações Básicas**: 
+  - Soma (+)
+  - Subtração (-)
+  - Multiplicação (*)
+  - Divisão (/)
+- **Interface Responsiva**: Construída com **Bootstrap**, a aplicação funciona bem em diferentes dispositivos.
+- **Design Simples e Intuitivo**: Fácil de usar para todos os tipos de usuários.
 
-```sh
-npm install
-```
+---
 
-### Compile and Hot-Reload for Development
+## **Tecnologias Utilizadas**
 
-```sh
-npm run dev
-```
+- **Vue.js 3.5.13**: Framework moderno e eficiente para construção de interfaces.
+- **Vite 6.0.1**: Ferramenta rápida para desenvolvimento.
+- **Bootstrap 5.3.3**: Para estilização e responsividade.
+- **vite-plugin-vue-devtools**: Plugin para facilitar o debug durante o desenvolvimento.
 
-### Compile and Minify for Production
+---
 
-```sh
-npm run build
-```
+## **Como Executar**
+
+### **Pré-requisitos**
+- Node.js (>=16.x)
+- npm ou yarn instalados.
+
+### **Passos para Instalação**
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/SrGuiOliveira/calculadora-aritmetica.git
